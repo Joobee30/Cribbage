@@ -1,0 +1,7 @@
+#pane{
+    -fx-background-image: url("chart.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 60%;
+    -fx-background-position: center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
